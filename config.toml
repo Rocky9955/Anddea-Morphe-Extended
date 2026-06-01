@@ -3,8 +3,8 @@ parallel-jobs = 1
 
 patches-source = "anddea/revanced-patches"
 cli-source = "MorpheApp/morphe-cli"
-patches-version = "dev"
-cli-version = "dev"
+patches-version = "latest"
+cli-version = "latest"
 
 [YouTube]
 app-name = "YouTube"
